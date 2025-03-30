@@ -24,7 +24,9 @@ Being one of the first devices to empoly the _ASCII_ standard encoding, publishe
 
 <details>
   <summary>Teletype</summary>
+
   Want to learn more about the Teletype? Check out [this TTY exercise.](www.github.com/STEMgraph/missing)
+
 </details>
 
 ---
@@ -64,3 +66,10 @@ Don’t be intimidated by the black screen—every expert once started with a si
 
 > “Controlling complexity is the essence of computer programming.”  
 > — *Brian W. Kernighan*
+
+<details>
+  <summary>Linux</summary>
+
+  Checkout the [Linux BASH](https://github.com/STEMgraph/8d3e51c2-4811-4275-976c-04e3b3215998) exercise as well to see the differences and similarities!
+
+</details>

@@ -55,11 +55,17 @@ Over a terminal, two numbers are punched in, the `Enter`-key is pressed, the com
 
 ## 3) Questions
 1. What advantages does using the terminal offer compared to graphical user interfaces?
-2. How can terminal commands improve reproducibility in software development?
-3. Why can it be important to understand basic terminal operations, even when working mostly in GUI environments?
-4. In what ways does using a terminal strengthen your understanding of how an operating system works?
-5. Why might automation be easier with terminal tools than with graphical interfaces?
-6. How can learning the terminal help you troubleshoot problems more effectively on your computer?
+   in the terminal we can execute more commands in the same time.
+3. How can terminal commands improve reproducibility in software development?
+   if u know how to work with terminal that can save ur time.
+5. Why can it be important to understand basic terminal operations, even when working mostly in GUI environments?
+   this knowlage can be useful if u debugging programms.
+7. In what ways does using a terminal strengthen your understanding of how an operating system works?
+   
+9. Why might automation be easier with terminal tools than with graphical interfaces?
+    cuz its allows u to use scripts, they can be executed in terminal.
+   
+11. How can learning the terminal help you troubleshoot problems more effectively on your computer?
 
 ## 4) Advice
 Don’t be intimidated by the black screen—every expert once started with a simple `echo Hello`. The command line is a powerful tool that rewards curiosity and experimentation. Get used to reading error messages, exploring built-in help (`command /?`), and breaking things safely. As you grow more comfortable, you'll find the terminal not only speeds up your work but deepens your understanding of how computers really operate. One command at a time, you’re becoming fluent in the native language of machines.
